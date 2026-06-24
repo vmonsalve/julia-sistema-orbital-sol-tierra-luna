@@ -37,9 +37,9 @@ julia orbita_circular.jl
 
 Esto generará este video:
 
-<video width="800" controls>
-  <source src="./rotacion_tierra_kepler_luna_baricentro.mp4" type="video/mp4">
-</video>
+<p align="center">
+  <img src="./rotacion_tierra_kepler_luna_baricentro.gif" width="700">
+</p>
 
 ## Estructura del proyecto
 
