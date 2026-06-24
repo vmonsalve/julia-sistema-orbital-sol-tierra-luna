@@ -64,14 +64,14 @@ Pkg.add("GLMakie")
 ## Ejecución
 
 ```bash
-julia orbita_circular.jl
+julia sistema_orbital.jl
 ```
 
 La ejecución generará una animación en formato MP4.
 
 ## Estructura del proyecto
 
-- `orbita_circular.jl`: script principal de la simulación.
+- `sistema_orbital.jl`: script principal de la simulación.
 
 ## Notas
 
